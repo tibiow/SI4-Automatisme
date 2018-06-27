@@ -1,0 +1,11 @@
+Prix immobilier et revenu dans les agglomérations françaises
+
+Année : 2006
+Source : CGEDD
+Source website : http://www.cgedd.developpement-durable.gouv.fr/prix-immobilier-et-revenu-dans-les-a1112.html
+
+Valeurs numériques du graphique de l’article « Le lien entre prix des logements et revenu par ménage dans les principales agglomérations », J. Friggit, avril 2010, paru dans la note de conjoncture des Notaires de France. 
+
+Variables : aglomération, revenu brut par an par ménage, prix moyen des logéments, nombre de ménages, pourcentage de résidences secondaires.
+
+Méthodes : régression linéaire, traitement de données abérrantes. 
